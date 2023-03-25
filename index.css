@@ -79,3 +79,11 @@ footer a {
     margin: 55px;
 
 }
+footer {
+    background-color: #00a2ff;
+    padding: -20px;
+    text-align: center;
+  }
+  h4 {
+    color: #000000
+}
